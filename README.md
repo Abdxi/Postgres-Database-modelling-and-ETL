@@ -36,3 +36,5 @@ Here are filepaths to two files in this dataset.
 ### Database Schema
 We used a star schema used for this project to optimize the nalaytics jobs
 There is a fact table that contain all the user activity measures, and 4 dimentional tables (users, artists, songs and time) referenced from the fact table by the primary keys.
+
+![alt text](https://github.com/Abdxi/Postgres-Database-modelling-and-ETL/blob/main/images/database%20schema.png)
